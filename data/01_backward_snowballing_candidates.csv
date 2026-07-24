@@ -1,0 +1,52 @@
+study_id,ref_number_in_seed,first_author,year,title,venue_or_source
+B01,1,O'Mara-Eves et al.,2015,Using text mining for study identification in systematic reviews: a systematic review of current approaches,Systematic Reviews
+B02,2,Wallace et al.,2012,Deploying an interactive machine learning system in an evidence-based practice center: abstrackr,Proc. 2nd ACM SIGHIT International Health Informatics Symposium
+B03,3,Carey et al.,2022,A text-mining tool generated title-abstract screening workload savings: performance evaluation versus single-human screening,Journal of Clinical Epidemiology
+B04,4,Harrison et al.,2020,Software tools to support title and abstract screening for systematic reviews in healthcare: an evaluation,BMC Medical Research Methodology
+B05,5,CLEF eHealth,2021,CLEF eHealth 2019 - Task 2: Technology Assisted Reviews in Empirical Medicine,Website (clefehealth.imag.fr)
+B06,6,Adam et al.,2022,A novel tool that allows interactive screening of PubMed citations showed promise for the semi-automation of identification of biomedical literature,Journal of Clinical Epidemiology
+B07,7,Bui et al.,2015,Automatically finding relevant citations for clinical guideline development,Journal of Biomedical Informatics
+B08,8,Chelli et al.,2024,Hallucination rates and reference accuracy of ChatGPT and Bard for systematic reviews: comparative analysis,Journal of Medical Internet Research
+B09,9,Wang et al.,2023,Generating natural language queries for more effective systematic review screening prioritisation, Proc. of the Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region.
+B10,10,Lefebvre et al.,2019,Chapter 4: Searching for and selecting studies,Cochrane Handbook for Systematic Reviews of Interventions
+B11,11,Johnson et al.,2022,The systematic review toolbox: keeping up to date with tools to support evidence synthesis,Systematic Reviews
+B12,12,Paynter et al.,2024,Systematic Review Search Strategy Development Tools: A Practical Guide for Expert Searchers,Agency for Healthcare Research and Quality
+B13,13,Wang et al.,2023,Can ChatGPT write a good Boolean query for systematic review literature search?,arXiv:2302.03495 (preprint)
+B14,14,Wang et al.,2017,CLEF 2017 technologically assisted reviews in empirical medicine overview,CEUR Workshop Proceedings
+B15,15,Wang et al.,2018,CLEF 2018 technologically assisted reviews in empirical medicine overview,CEUR Workshop Proceedings
+B16,16,Scells et al.,2017,A test collection for evaluating retrieval of studies for inclusion in systematic reviews,Proc. of the 40th International ACM SIGIR '17
+B17,17,Wang et al.,2022,From little things big things grow: a collection with seed studies for medical systematic review literature search,arXiv:2204.03096 (preprint)
+B18,18,Alharbi & Stevenson,2019,A dataset of systematic review updates,Proc. of the 42nd International ACM SIGIR 2019
+B19,19,Booth et al.,2012,The nuts and bolts of PROSPERO: an international prospective register of systematic reviews,Systematic Reviews
+B20,20,Schiavo,2019,PROSPERO: an international register of systematic review protocols,Medical Reference Services Quarterly
+B21,21,Adam et al.,2016,Strategies for Improving the Lives of Women Aged 40 and Above Living With HIV/AIDS,AHRQ Comparative Effectiveness Technical Briefs
+B22,22,Balk et al.,2018,Nonsurgical Treatments for Urinary Incontinence in Women: A Systematic Review Update,AHRQ Comparative Effectiveness Reviews
+B23,23,Balk et al.,2024,"Long-term effects on clinical event, mental health, and related outcomes of CPAP for obstructive sleep apnea: a systematic review",Journal of Clinical Sleep Medicine
+B24,24,Balk et al.,2020,Management of Colonic Diverticulitis,AHRQ Comparative Effectiveness Reviews
+B25,25,Balk et al.,2016,Omega-3 fatty acids and cardiovascular disease: an updated systematic review,Evidence Report/Technology Assessment
+B26,26,Balk et al.,2017,Venous Thromboembolism Prophylaxis in Major Orthopedic Surgery: Systematic Review Update,AHRQ Comparative Effectiveness Reviews
+B27,27,Balk et al.,2018,"Lower Limb Prostheses: Measurement Instruments, Comparison of Component Effects by Subgroups, and Long-Term Outcomes",AHRQ Comparative Effectiveness Reviews
+B28,28,Balk et al.,2022,Schedule of Visits and Televisits for Routine Antenatal Care: A Systematic Review,AHRQ Comparative Effectiveness Reviews
+B29,29,Drucker et al.,2017,Treatments for Basal Cell and Squamous Cell Carcinoma of the Skin,AHRQ Comparative Effectiveness Reviews
+B30,30,Konnyu et al.,2021,Prehabilitation and Rehabilitation for Major Joint Replacement,AHRQ Comparative Effectiveness Reviews
+B31,31,Panagiotou et al.,2018,Short- and Long-Term Outcomes after Bariatric Surgery in the Medicare Population,AHRQ Technology Assessments
+B32,32,Saldanha et al.,2023,Postpartum Care up to 1 Year After Pregnancy: A Systematic Review and Meta-Analysis,AHRQ Comparative Effectiveness Reviews
+B33,33,Saldanha et al.,2021,"Management of primary headaches during pregnancy, postpartum, and breastfeeding: a systematic review",Headache
+B34,34,Steele et al.,2017,Tympanostomy Tubes in Children with Otitis Media,AHRQ Comparative Effectiveness Reviews
+B35,35,Steele et al.,2023,Postpartum home blood pressure monitoring: a systematic review,Obstetrics & Gynecology
+B36,36,Steele et al.,2020,Interventions for Substance Use Disorders in Adolescents: A Systematic Review,AHRQ Comparative Effectiveness Reviews
+B37,37,Guirguis-Blake et al.,2022,Aspirin Use to Prevent Cardiovascular Disease and Colorectal Cancer: An Evidence Update for the U.S. Preventive Services Task Force,Agency for Healthcare Research and Quality
+B38,38,Jutkowitz et al.,2023,Accelerated Diagnostic Protocols Using High-Sensitivity Troponin Assays to Rule In or Rule Out Myocardial Infarction in the Emergency Department: A Systematic Review,VA Evidence-Based Synthesis Program Reports
+B39,39,McGowan et al.,2016,PRESS peer review of electronic search strategies: 2015 guideline statement,Journal of Clinical Epidemiology
+B40,40,Woods et al.,2012,Cognitive stimulation to improve cognitive functioning in people with dementia,Cochrane Database of Systematic Reviews
+B41,41,Chung et al.,2022,Scaling instruction-finetuned language models,arXiv:2210.11416 (preprint)
+B42,42,Yuan et al.,2022,BioBART: pretraining and evaluation of a biomedical generative language model,arXiv:2204.03905 (preprint)
+B43,43,Jiang et al.,2023,Mistral 7B,arXiv:2310.06825 (preprint)
+B44,44,Wolf et al.,2019,HuggingFace's Transformers: state-of-the-art natural language processing,arXiv:1910.03771 (preprint)
+B45,45,HuggingFace,2024,Parameter-Efficient Fine-Tuning Library (PEFT),Software / documentation
+B46,46,Hu et al.,2021,LoRA: low-rank adaptation of large language models,arXiv:2106.09685 (preprint)
+B47,47,Shazeer & Stern,2018,Adafactor: adaptive learning rates with sublinear memory cost,Proc. ICML (PMLR)
+B48,48,Anvil,2024,Anvil [software],The Tuesday Project Ltd
+B49,49,Gale et al.,2013,Using the framework method for the analysis of qualitative data in multidisciplinary health research,BMC Medical Research Methodology
+B50,50,Fiorini et al.,2018,Best match: new relevance search for PubMed,PLoS Biology
+B51,51,Trikalinos et al.,2019,Large scale empirical evaluation of machine learning for semi-automating citation screening in systematic reviews,Medical Decision Making

@@ -1,0 +1,29 @@
+study_id,year,first_author,title_as_retrieved,venue_or_source
+F01,2025,Klerings,Large Language Models in der systematischen Literaturrecherche – eine Evidenzübersicht.,AGMB-Jahrestagung in Linz
+F02,2025,Simmons et al,Assessing the Feasibility and Acceptability of a Bespoke Large Language Model Pipeline to Extract Data From Different Study Designs for Public Health Evidence Reviews.,Cochrane evidence synthesis and methods
+F03,2026,Blasingame et al.,Comparing Five Generative AI Chatbots' Answers to LLM-Generated Clinical Questions with Medical Information Scientists' Evidence Summaries.,J Med Libr Assoc.
+F04,2025,Xing et al.,Leveraging AI for Meta-Analysis: Evaluating LLMs in Detecting Publication Bias for Next-Generation Evidence Synthesis.,Cochrane evidence synthesis and methods
+F05,2025,Wang et al.,A foundation model for human-AI collaboration in medical literature mining.,Nature communications
+F06,2025,Wang et al.,Accelerating clinical evidence synthesis with large language models.,npj Digital Medicine
+F07,2025,Forero et al.,Automated analyses of risk of bias and critical appraisal of systematic reviews (ROBIS and AMSTAR 2): a comparison of the performance of 4 large language models,Journal of the American Medical Informatics Association
+F08,2025,Tinajero,The pediatric surgeon's AI toolbox: how large language models like ChatGPT are simplifying practice and expanding global access,European Journal of Pediatric Surgery
+F09,2025,Thomas et al.,Responsible use of AI in Evidence Synthesis (RAISE 2026) 2: building and evaluating AI evidence synthesis tools,RAISE
+F10,2024,Hu,Accelerating systematic reviews with large language models: Current practices and recommendations,Open Science Framework
+F11,2026,Fu et al.,Use of Small-Molecule Inhibitors of CILK1 and AURKA as Cilia-Promoting Drugs to Decelerate Medulloblastoma Cell Replication,Biomedicines
+F12,2025,Treviño,"Artificial Intelligence in Systematic Reviews: Overcoming Reproducibility, Bias and Validation Challenges",Preprints
+F13,2025,Venne,Strategies for identifying and using diverse global health data: perspectives from data searching and meta-analyses on antimicrobial resistance,Discover Public Health
+F14,2025,Hüsing et al.,LLMs in Research Methodology: Opportunities and Challenges,Full-Scale Software Engineering
+F15,2025,Carranza,Interpretable and Robust Dialogue State Tracking via Natural Language Summarization with LLMs,preprint arXiv
+F16,2025,Shen et al.,Large language model enhanced framework for systematic reviews and meta-analyses,BMJ Digital Health & AI
+F17,2025,Gartlehner et al.,Responsible Integration of Artificial Intelligence in Rapid Reviews: A Position Statement From the Cochrane Rapid Reviews Methods Group,Cochrane Evidence Synthesis and Methods
+F18,2026,Dullea et al.,Sensitivity and Precision of Search Strategies Built Using a Text‐Mining Word Frequency Tool (PubReMiner) Compared to Current Best Practice for Building Search Strategies: A Study Within a Review (SWAR),Cochrane Evidence Synthesis and Methods
+F19,2025,DeYoung,Automation Assistance for Systematic Reviewers,Northeastern University
+F20,2026,Jin et al.,护理科研中应用大语言模型的伦理风险 与应对策略.,Chinese Nursing Research
+F21,2025,Park et al.,Quality Evaluation of Generative AI–Based Search Strategies in Systematic Reviews and Comparison of Search Performance with Human Expert (Medical Librarian),Journal of Korean Medical Library Association
+F22,2026,Thomas et al.,Responsible use of AI in Evidence Synthesis (RAISE 2026) 3: selecting and using AI evidence synthesis tools,RAISE
+F23,2025,Wang et al.,"Deep learning methods for clinical trial design, execution, and analysis",University of Illinois
+F24,2025,Jansen et al.,Data Extraction by Generative Artificial Intelligence: Assessing Determinants of Accuracy Using Human-Extracted Data From Systematic Review Databases,Psychological Bulletin
+F25,2025,Hilkenmeier et al.,Evaluating the AI Tool “Elicit” as a Semi-Automated Second Reviewer for Data Extraction in Systematic Reviews: A Proof-of-Concept,Social Science Computer Review
+F26,2025,Leest et al.,From Tea Leaves to System Maps: A Survey and Framework on Context-Aware Machine Learning Monitoring ,IEEE Transactions on Software
+F27,2025,Soprano et al.,"AIDME: A Scalable, Interpretable Framework for AI-Aided Scoping Reviews ACM Reference Format",15th International Conference on Innovative Concepts and Theories in Information Retrieval
+F28,2026,Jansen et al.,Automated Data Extraction by Large Language Models: Assessing Accuracy in Comparison to Human Experts Using the Example of Visible Learning,Educational Psychology Review
